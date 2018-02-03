@@ -1,0 +1,4 @@
+GoldRushInstaller/gold_rush
+dist/
+build/
+nbproject/private/private.xml

@@ -16,10 +16,10 @@
 #include <unistd.h>
 using namespace std;
 
-#define OUTPUTPIN1   0
-#define OUTPUTPIN2   1
-#define OUTPUTPIN3   2
-#define OUTPUTPIN4   3 
+#define OUTPUTPIN1   26
+#define OUTPUTPIN2   27
+#define OUTPUTPIN3   28
+#define OUTPUTPIN4   29
 
 /*
  * 
